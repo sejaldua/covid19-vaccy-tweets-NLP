@@ -5,12 +5,19 @@ Using the TextBlob API and word cloud visualizations to synthesize the discourse
 <img src="media/twitter_photo_moderna.jpeg" width="400"><img src="media/kaggle_preview.png" width="400">
 
 ## Sentiment Analysis
+#### Top 10 most retweeted tweets
 
 <img src="figures/top_retweets.png" width="800"><br>
 
+#### Top 10 most positively charged tweets
+
 <img src="figures/top_ten_pos_tweets.png" width="800"><br>
 
+#### Top 10 most negatively charged tweets
+
 <img src="figures/top_ten_neg_tweets.png" width="800"><br>
+
+#### Polarity and Subjectivity Distributions for all tweets
 
 <img src="figures/polarity_hist.png" width="400"><img src="figures/subjectivity_hist.png" width="400">
 
